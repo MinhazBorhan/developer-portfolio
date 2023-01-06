@@ -25,7 +25,17 @@
     background: #FD6E0A;
     margin-bottom: 47px;
 }
-
+.btn-contact{
+    color: #FD6E0A;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    margin-bottom: 47px;
+    margin-left: 30px;
+}
 /* header and navigation styles */
 nav {
     display: flex;
@@ -73,7 +83,9 @@ nav li {
     font-weight: 400;
     margin-bottom: 30px;
 }
-
+#my-image{
+    margin-left: 600px;
+}
 /* main section */
 main {
     max-width: 1140px;
